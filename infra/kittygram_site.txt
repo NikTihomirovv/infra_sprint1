@@ -1,0 +1,5 @@
+IP: 89.169.160.21;
+name_taski: https://mytesthostname.ddns.net/;
+name_kittygram: https://kittygramk.ydns.eu/;
+login: Nikita; 
+password: 920029ktckb;
